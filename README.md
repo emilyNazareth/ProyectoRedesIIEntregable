@@ -29,4 +29,4 @@ Luego de Abrir los proyectos veremes en NetBeans lo siguiente:
 ![proy2](https://i.ibb.co/kKHZJSx/NEATBEANS.png)
 
 
-Con esos simples pasos tenemos nuestros proyectos listos para ejecutarse y ser probados
+Con esos simples pasos tenemos nuestros proyectos listos para ejecutarse y ser probados, puede ver ese procedimiento en el manual de usuario de la Wiki de este proyecto.
